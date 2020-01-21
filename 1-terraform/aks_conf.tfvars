@@ -1,0 +1,6 @@
+azure_region="eastus2"
+kubernetes_version="1.16.1"
+resource_group="AksTerraform-RG"
+acr_name="aksterraformacrdemo2"
+keyvault_rg="AksTerraform-RG"
+keyvault_name="saifulterraform"
